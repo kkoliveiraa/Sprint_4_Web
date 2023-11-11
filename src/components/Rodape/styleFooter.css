@@ -1,0 +1,51 @@
+#footerStyle{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    /* background-image: url('../assets/caixa-2.png');  */
+    background-image: url('../../../public/img/caixa-2.png');
+    margin-left: 5px;
+    text-align: center;
+    height: 40vh;
+}
+.conteudoFooter{
+    
+    margin: 20px;
+    text-align: center;
+    padding: 10px;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+    
+}
+.infos{
+    display:inline-table;
+    justify-content: space-between;
+    flex-grow: 1;
+    margin: 0 10px;
+    margin-top: 20px;
+    margin-right: 40px;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+}
+#sobreNosCont{
+    display:flex;
+    justify-content: space-between;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff;
+    align-items: center;
+}
+.infos{
+    margin-right: 10px; 
+}
+
+#BotaoSobrenos{
+    margin-bottom: 30px;
+    border-radius: 50px;
+    color: #002890;
+    background-color: #fff;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}

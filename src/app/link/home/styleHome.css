@@ -1,0 +1,218 @@
+#superContainer{
+    display: flex;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+}
+#Container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+    width: 50vw;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+}
+#Container1 h1{
+    font-size: 20px;
+    text-align: center;
+    font-family: "Fjalla One-Regular", Helvetica;
+
+}
+#Container1 h2{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    font-family: "Fjalla One-Regular", Helvetica;
+    
+}
+
+#titulo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+}
+#texto{
+    text-align: center;
+    justify-content: center;
+    font-size: 10px;
+    margin-bottom: 10px;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+}
+#motorista{
+    width: 25vw;
+    height: 40vh;
+}
+#Container2{
+    display: flex;
+    flex-direction: column;
+    
+    height: 50vh;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    justify-content: space-between;
+    /* background-image: url('../../assets/caixa-2.png'); */
+    background-image: url('../../../../public/img/caixa-2.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#tituloC2{
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Fjalla One-Regular", Helvetica;
+
+    
+}
+
+#textoC2{
+    margin: 10px auto;
+    max-width: 85%;
+    display: flex;
+    word-wrap: break-word;
+    padding-top: 0%;
+    align-content:flex-start;
+    font-family: "Fjalla One-Regular", Helvetica;
+
+}
+
+.botao{
+    margin-bottom: 30px;
+    border-radius:50px ;
+    color: #002890;
+    background-color: #ffff;
+} 
+.botaoObj{
+
+    display: flex;
+    justify-content:flex-end;
+    text-align:start;
+    border-radius:50px ;
+    color: #002890;
+    background-color: #ffff;
+
+}
+
+#containerBotao{
+    display: flex;
+    justify-content:center;
+    text-align:start;
+    border-radius:50px ;
+    color: #002890;
+    margin-bottom: 25px;
+}
+#containerBotao:focus, #containerBotao :focus-visible{
+    outline: 4px auto -webkit-focus-ring-color;
+}
+
+#containerObj{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 30vh; /* 100% da altura da janela do navegador *//*tentativa de*/
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url('../../../../public/img/caixa-2.png');
+    
+    
+
+}
+#conteudoObj{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+  
+}
+#botaoObj{
+    padding: 10px 20px; 
+    background-color: #007bff; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+#containerVei{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    background-image: url('../../../../public/img/caixa-2.png');
+    margin-left: 5px;
+    
+}
+#conteudoVei{
+  text-align: center;
+  padding-top: 20px;
+  margin: 10px auto;
+  max-width: 80%;
+  font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+  
+}
+
+#veiculos{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: space-between;
+    font-family: "Fjalla One-Regular", Helvetica;
+    color:#fff
+}
+.veiculo {
+    display:inline-table;
+    justify-content: space-between;
+    flex-grow: 1;
+    margin: 0 10px;
+    max-height: 20vh;
+}
+
+.veiculo p {
+    margin: 0;
+}
+
+.veiculo .imagemVeiculo img{
+    /* max-width: 12vw;
+    max-height: 20vh; */
+    max-width: 15vw;
+    max-height: 20vh;
+}
+.veiculo .imagemVeiculo#trailer img{
+    max-width: 12vw;
+    max-height: 20vh;
+    
+}
+#caminhao,
+#onibus,
+#trailer{
+    max-width: 15vw;
+    max-height: 20vh;
+}
+.botao{
+    margin-bottom: 30px;
+    border-radius: 50px;
+    color: #002890;
+    background-color: #fff;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}

@@ -1,0 +1,23 @@
+body{
+    overflow:visible;
+  }
+
+#divIntegrantes{
+    display: flex;
+    justify-content: center;
+}
+  
+  .integrantes {
+      display:flex;
+      align-items: center;
+      margin-top: 10vh;
+      justify-content:center;
+      margin: 25px;
+
+      
+  }
+  
+  .integrantes img{
+    max-width: 200px;
+  }
+  
