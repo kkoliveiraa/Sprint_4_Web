@@ -24,12 +24,18 @@ Para facilitar os testes, utilize as seguintes credenciais:
 - **CPF**: "123.456.789-00"
 
 Caso deseje registrar um novo usuário, o sistema armazenará as informações e tornará o novo registro disponível para login.
-
 ## 📂 Estrutura do Projeto
 
-- `src/` : Contém o código-fonte da aplicação.
-- `public/` : Armazena recursos públicos, como imagens e ícones.
-- `styles/` : Contém os arquivos de estilo da aplicação.
+O projeto está organizado da seguinte forma:
+
+- **`src/`**: Este diretório é o coração da aplicação.
+  - **`app/`**: Contém os principais componentes e lógica da aplicação.
+  - **`api/`**: Guarda as rotas da API da aplicação.
+  - **`components/`**: Contém componentes reutilizáveis.
+
+- **`public/`**: Armazena recursos públicos, como imagens e ícones.
+
+- **`styles/`**: Contém os arquivos de estilo.
 
 ## 🛠️ Tecnologias Utilizadas
 
