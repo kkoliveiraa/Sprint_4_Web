@@ -2,6 +2,7 @@
 
 Bem-vindo ao repositório da 4ª Sprint de Desenvolvimento Web Responsivo do Grupo NTC!
 
+
 Este projeto é o resultado da colaboração dos seguintes membros:
 
 - **Cauã Couto Basques (RM97755)**
