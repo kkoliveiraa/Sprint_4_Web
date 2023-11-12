@@ -1,4 +1,4 @@
-
+import "../components/Assistente/style.css"
 export default function Home() {
   return (
     <div>
