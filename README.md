@@ -35,8 +35,6 @@ O projeto está organizado da seguinte forma:
 
 - **`public/`**: Armazena recursos públicos, como imagens e ícones.
 
-- **`styles/`**: Contém os arquivos de estilo.
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **React**
