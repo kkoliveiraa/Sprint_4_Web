@@ -1,6 +1,6 @@
-# Responsive Web Development - 4ª Sprint - Grupo NTC
+# Bem-vindo ao Repositório da 4ª Sprint - Responsive Web Development - Grupo NTC!
 
-Bem-vindo ao repositório da 4ª Sprint de Responsive Web Development do Grupo NTC! Este projeto reúne esforços dos seguintes membros:
+Este repositório registra os esforços conjuntos da talentosa equipe do Grupo NTC durante a 4ª Sprint de Responsive Web Development. Conheça os membros que tornaram isso possível:
 
 - Cauã Couto Basques (RM97755) - 1TDSS
 - Eduardo Moura Batageli (RM97611) - 1TDSS
@@ -10,17 +10,37 @@ Bem-vindo ao repositório da 4ª Sprint de Responsive Web Development do Grupo N
 
 ## Sobre o Projeto
 
-Este repositório contém o código fonte e os recursos desenvolvidos durante a 4ª Sprint de Responsive Web Development. O objetivo principal é criar uma aplicação web responsiva, visando oferecer uma experiência de usuário consistente em diferentes dispositivos.
+Este repositório é o lar do código fonte e dos recursos desenvolvidos durante a 4ª Sprint de Responsive Web Development. Nosso principal objetivo é criar uma aplicação web responsiva que ofereça uma experiência de usuário consistente em diversos dispositivos.
 
-## Teste de Login
+### Tecnologias Utilizadas
 
-Para facilitar os testes, utilize as seguintes credenciais:
+Destacamos as principais tecnologias que impulsionaram nosso desenvolvimento, incluindo frameworks, linguagens de programação e outras ferramentas inovadoras.
+
+### Teste de Login
+
+Facilitamos os testes para você! Utilize as seguintes credenciais:
 
 - **Placa**: "ABC-1234"
 - **CPF**: "123.456.789-00"
 
-Caso deseje registrar um novo usuário, o sistema armazenará as informações e tornará o novo registro disponível para login.
+Registre um novo usuário, se desejar. O sistema armazenará as informações, tornando o novo registro disponível para login.
 
+### Instruções de Execução
 
+Para executar o projeto localmente, siga as instruções detalhadas [aqui] (insira o link ou instruções).
+
+### Documentação do Código
+
+Explore a documentação para entender a estrutura do projeto e facilitar futuras contribuições. A documentação está disponível [aqui] (insira o link ou instruções).
+
+### Feedback dos Usuários
+
+Estamos ansiosos para receber seu feedback! Compartilhe suas sugestões e contribua para melhorar ainda mais o projeto.
+
+### Atualizações Futuras
+
+Mantenha-se informado sobre as próximas atualizações e melhorias planejadas. Queremos continuar aprimorando nossa aplicação.
+
+Agradecemos a todos os membros da equipe e a qualquer pessoa que tenha contribuído para este projeto. Vamos continuar avançando juntos!
 
 **Equipe de Desenvolvimento - Grupo NTC**
