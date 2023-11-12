@@ -4,7 +4,7 @@ body{
 
 #divIntegrantes{
   display: flex;
-  
+  justify-content: center;
 }
 
 .integrantes {
