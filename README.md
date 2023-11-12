@@ -39,12 +39,4 @@ O projeto está organizado da seguinte forma:
 - **React**
 - **Next.js**
 
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📬 Contato
-
-- **Email:** equipe@portohelp.com
-
 Agradecemos por contribuir para o projeto Porto Help!
