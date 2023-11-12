@@ -1,18 +1,21 @@
-# Responsive Web Development - 4ª Sprint - Grupo NTC
+# Porto Help - Desenvolvimento Web Responsivo
 
-Bem-vindo ao repositório da 4ª Sprint de Responsive Web Development do Grupo NTC! Este projeto reúne esforços dos seguintes membros:
+Bem-vindo ao repositório da 4ª Sprint de Desenvolvimento Web Responsivo do Grupo NTC!
 
-- Cauã Couto Basques (RM97755) - 1TDSS
-- Eduardo Moura Batageli (RM97611) - 1TDSS
-- Kaique Agostinho de Oliveira (RM550815) - 1TDSS
-- Rafael Minoro Itokazo (RM99988) - 1TDSS
-- Thiago Gil Camargo (RM551211) - 1TDSPV
 
-## Sobre o Projeto
+Este projeto é o resultado da colaboração dos seguintes membros:
 
-Este repositório contém o código fonte e os recursos desenvolvidos durante a 4ª Sprint de Responsive Web Development. O objetivo principal é criar uma aplicação web responsiva, visando oferecer uma experiência de usuário consistente em diferentes dispositivos.
+- **Cauã Couto Basques (RM97755)**
+- **Eduardo Moura Batageli (RM97611)**
+- **Kaique Agostinho de Oliveira (RM550815)**
+- **Rafael Minoro Itokazo (RM99988)**
+- **Thiago Gil Camargo (RM551211)**
 
-## Teste de Login
+## 🚀 Sobre o Projeto
+
+O objetivo desta sprint foi criar uma aplicação web responsiva, garantindo uma experiência de usuário consistente em diversos dispositivos. A aplicação, denominada Porto Help, visa fornecer um ambiente eficiente para o atendimento de veículos pesados.
+
+## 🔐 Teste de Login
 
 Para facilitar os testes, utilize as seguintes credenciais:
 
@@ -21,8 +24,20 @@ Para facilitar os testes, utilize as seguintes credenciais:
 
 Caso deseje registrar um novo usuário, o sistema armazenará as informações e tornará o novo registro disponível para login.
 
-Fique à vontade para explorar, testar e contribuir para o nosso projeto! Se encontrar problemas ou tiver sugestões, abra uma issue e teremos prazer em trabalhar nisso juntos.
+## 📂 Estrutura do Projeto
 
-Agradecemos pela sua colaboração!
+O projeto está organizado da seguinte forma:
 
-**Equipe de Desenvolvimento - Grupo NTC**
+- **`src/`**: Este diretório é o coração da aplicação.
+  - **`app/`**: Contém os principais componentes e lógica da aplicação.
+  - **`api/`**: Guarda as rotas da API da aplicação.
+  - **`components/`**: Contém componentes reutilizáveis.
+
+- **`public/`**: Armazena recursos públicos, como imagens e ícones.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React**
+- **Next.js**
+
+Agradecemos por contribuir para o projeto Porto Help!
