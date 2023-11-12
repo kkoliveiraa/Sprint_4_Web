@@ -21,8 +21,6 @@ Para facilitar os testes, utilize as seguintes credenciais:
 
 Caso deseje registrar um novo usuário, o sistema armazenará as informações e tornará o novo registro disponível para login.
 
-Fique à vontade para explorar, testar e contribuir para o nosso projeto! Se encontrar problemas ou tiver sugestões, abra uma issue e teremos prazer em trabalhar nisso juntos.
 
-Agradecemos pela sua colaboração!
 
 **Equipe de Desenvolvimento - Grupo NTC**
