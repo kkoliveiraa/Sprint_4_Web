@@ -1,18 +1,81 @@
 
- 
-  .caixa-texto-1,
-  .caixa-texto-2 {
-    font-size: 18px;
-    line-height: 30px;
-    color: #5a0808;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 300;
-    width: 50%;
-    height: auto; 
-    max-height: 230px; 
-    background: url(../../../../public/img/caixaTexto.png) lightgray 50% / cover no-repeat;
-    border-radius: 50px;
-    box-shadow: 10px 10px 4px 0px #2f333b, 10px 10px 4px 0px #002890 inset;
-    padding: 25px;
-    margin-left: 25px;
-  }
+.titulo-pagina {
+  font-size: 45px;
+  line-height: 40px;
+  color: #ffffff;
+  font-family: 'Fjalla One', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 45%; 
+  margin-top: 15px;
+  margin-bottom: 40px; 
+  white-space: nowrap; 
+}
+
+
+
+.p{
+  font-family: "Fjalla One-Regular", Helvetica;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: flex-start; 
+  padding: 20px; 
+  overflow-y: auto; 
+  max-height: 80vh;
+  
+}
+
+
+
+.texto-imagem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+
+.caixa-texto-1,
+.caixa-texto-2 {
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFF;
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: 300;
+  width: 50%;
+  height: auto; 
+  max-height: 230px; 
+  background: url(../../../../public/img/caixaTexto.png) lightgray 50% / cover no-repeat;
+  border-radius: 50px;
+  box-shadow: 10px 10px 4px 0px #002890, 10px 10px 4px 0px #002890 inset;
+  padding: 25px;
+  margin-left: 25px;
+}
+.caixa-texto-1{
+  margin-bottom:30px;
+}
+
+
+.imagem-opencv {
+  margin-top: -60px;
+  margin-right: -90px; 
+  width: 45%;
+  height: auto;
+  max-height: 306px;
+  border-radius: 50px;
+}
+
+
+.imagem-haarcascade {
+  margin-top: 25px; 
+  margin-right: -90px; 
+  width: 45%;
+  height: auto;
+  max-height: 306px;
+  border-radius: 50px;
+}
