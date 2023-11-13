@@ -2,12 +2,11 @@
 .titulo-pagina {
     font-size: 45px;
     line-height: 40px;
-    color: #ffffff;
+    color: #970a0a;
     font-family: 'Fjalla One', sans-serif;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 45%; 
     margin-top: 15px;
     margin-bottom: 40px; 
     white-space: nowrap; 
@@ -44,7 +43,7 @@
   .caixa-texto-2 {
     font-size: 18px;
     line-height: 30px;
-    color: #FFF;
+    color: #5a0808;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 300;
     width: 50%;
@@ -69,14 +68,3 @@
     max-height: 306px;
     border-radius: 50px;
   }
-  
-
-  .imagem-haarcascade {
-    margin-top: 25px; 
-    margin-right: -90px; 
-    width: 45%;
-    height: auto;
-    max-height: 306px;
-    border-radius: 50px;
-  }
-  
