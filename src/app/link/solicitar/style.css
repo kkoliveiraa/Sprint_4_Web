@@ -28,16 +28,6 @@
     
   }
   
-  
- 
-  .texto-imagem {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin-bottom: 20px;
-  }
-  
  
   .caixa-texto-1,
   .caixa-texto-2 {
