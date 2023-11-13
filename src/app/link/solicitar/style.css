@@ -25,7 +25,7 @@
     max-height: 230px; 
     background: url(../../../../public/img/caixaTexto.png) lightgray 50% / cover no-repeat;
     border-radius: 50px;
-    box-shadow: 10px 10px 4px 0px #002890, 10px 10px 4px 0px #002890 inset;
+    box-shadow: 10px 10px 4px 0px #2f333b, 10px 10px 4px 0px #002890 inset;
     padding: 25px;
     margin-left: 25px;
   }
