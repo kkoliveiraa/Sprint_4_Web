@@ -13,10 +13,7 @@
   }
   
   
-  
-  .p{
-    font-family: "Fjalla One-Regular", Helvetica;
-  }
+
   main {
     display: flex;
     flex-direction: column;
