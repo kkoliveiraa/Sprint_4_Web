@@ -12,19 +12,6 @@
     white-space: nowrap; 
   }
   
-  
-
-  main {
-    display: flex;
-    flex-direction: column;
-    align-items: center; 
-    justify-content: flex-start; 
-    padding: 20px; 
-    overflow-y: auto; 
-    max-height: 80vh;
-    
-  }
-  
  
   .caixa-texto-1,
   .caixa-texto-2 {
